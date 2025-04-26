@@ -1,0 +1,10 @@
+ID: 1
+Name: sf
+Phone Number: 0
+Gender: f
+Citizenship: gh
+Crime Type: cvf
+Description: ghyfrdfgh
+FIR Time: 344
+Offense: cfdg
+--------------------------
